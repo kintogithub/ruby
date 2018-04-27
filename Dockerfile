@@ -8,6 +8,7 @@ COPY . /app
 
 RUN gem install bundler
 RUN bundle install
+RUN bundle package --all
 
 ENV PORT=80
 
