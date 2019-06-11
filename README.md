@@ -1,6 +1,6 @@
 # Ruby samples
 
-A sample ruby microservice block for [kintohub](http://kintohub.com)
+A sample ruby microservice blocks for [kintohub](http://kintohub.com)
 
 
 # First time setup
