@@ -1,4 +1,4 @@
-# Ruby samples
+# Ruby samples!!
 
 A sample ruby microservice block for [kintohub](http://kintohub.com)
 
